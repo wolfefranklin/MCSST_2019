@@ -7,3 +7,5 @@ The following codes have been modified from the work of Tim Stahl (University of
 There are five steps: (1) Profile Selection in ArcGIS, (2) Profile Data Extraction in Python,  (3) Fault Component Selection in Python, (4) Slip Statistics Calculation in Matlab, and (5) Profile Upload to ArcGIS in Python. 
 
 Please contact wolfe_franklin@g.harvard.edu if there are any questions or concerns. 
+
+To access the codes, follow this link: https://wolfefranklin.github.io/mc_fault_slip_codes/Fault_Slip_Analysis_Website.html
