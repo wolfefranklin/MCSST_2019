@@ -8,6 +8,6 @@ There are five steps: (1) Profile Selection in ArcGIS, (2) Profile Data Extracti
 
 My Poster Presentation for AGU 2018 is listed.
 
-A Microsoft Word Document with Directions on how to use the scripts is also listed.
+The User Manual is also included. Please see this.
 
 Please contact wolfe_franklin@g.harvard.edu if there are any questions or concerns. I would appreciate any feedback so that I can improve on this code and the user experience. Thanks!
