@@ -1,5 +1,8 @@
 Franklin Wolfe. PhD student at Harvard University in the Earth and Planetary Sciences.
 
+First Code Release
+[![DOI](https://zenodo.org/badge/160578614.svg)](https://zenodo.org/badge/latestdoi/160578614)
+
 These codes allow one to create profiles across multiple fault scarps imaged with digital elevation data in an area with geologic age constraints, and subsequently run a series of analyses to determine the slip rate of the faults in question. The data outputs will be Line and Point Feature Classes that can be uploaded into an ArcGIS program to visualize the spatial distribution of fault slip rates and strain. Additionally, csv tables and histograms of slip statistics will be created to allow further data interrogation. Numerous subsets of data can be analysed simultaneously if there is a desire to create separate output files (ex: different data collection methods, age constraints, data locations, etc.). 
 
 The following codes have been modified from the work of Tim Stahl (University of Canterbury, Department of Geological Sciences) and Biljana Lukovic (GNS Science, GIS Specialist), with whom they were made in collaboration with. 
